@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Sajid-Ayman+.....">
+</div>
 
-<!--
-**sajid-ayman/sajid-ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  Palestine Technical University – Kadoorie <br />
+📧 Reach me on: [**Email**](mailto://sajidayman52@gmail.com) <br />
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me 📲
+
+[![LinkedIn](https://www.linkedin.com/in/sajid-ayman-1160a4302/)
+[![Codeforces](https://codeforces.com/profile/sajidayman)
+
+
+<hr/>
+
+#### Programming Languages 🖥️
+![C++](https://img.shields.io/badge/C%2B%2B-004080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
