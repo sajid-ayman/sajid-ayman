@@ -9,8 +9,8 @@
 
 ### Connect with me 📲
 
-[![LinkedIn](https://www.linkedin.com/in/sajid-ayman-1160a4302/)
-[![Codeforces](https://codeforces.com/profile/sajidayman)
+LinkedIn](https://www.linkedin.com/in/sajid-ayman-1160a4302/)
+Codeforces](https://codeforces.com/profile/sajidayman)
 
 
 <hr/>
