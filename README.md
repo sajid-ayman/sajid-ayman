@@ -35,9 +35,3 @@
 
 ###
 
-English
-</div>
-ARABIC
-</div>
-
-EXTENSION OPTIONSMORE »
